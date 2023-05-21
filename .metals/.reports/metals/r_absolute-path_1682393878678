@@ -1,0 +1,4 @@
+Uri: vscode-notebook-cell:<WORKSPACE>/STUDENT_CSCI3155_Assignment8-1.ipynb#X24sZmlsZQ%3D%3D
+
+Error message: Provider "vscode-notebook-cell" not installed
+Error: java.nio.file.FileSystemNotFoundException: Provider "vscode-notebook-cell" not installed
